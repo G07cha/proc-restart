@@ -1,0 +1,14 @@
+{
+  "name": "proc-restart",
+  "version": "0.0.1",
+  "description": "Self restart for running node process",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [
+    "restart"
+  ],
+  "author": "G07cha",
+  "license": "MIT"
+}
