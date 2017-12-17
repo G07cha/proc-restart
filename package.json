@@ -10,5 +10,13 @@
     "restart"
   ],
   "author": "G07cha",
+  "engines": {
+    "node": ">=6"
+  },
+  "repository": "https://github.com/G07cha/proc-restart.git",
+  "bugs": {
+    "url": "https://github.com/g07cha/proc-restart/issues"
+  },
+  "homepage": "https://github.com/g07cha/proc-restart#README",
   "license": "MIT"
 }
